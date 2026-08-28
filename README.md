@@ -1,3 +1,7 @@
+> 📚 **Cataloged in [w1977-0/learning-hub](https://github.com/w1977-0/learning-hub)** · This repository is part of a personal learning resources index. See the hub for the full collection.
+>
+> 📚 **已收录到 [w1977-0/learning-hub](https://github.com/w1977-0/learning-hub)** · 本仓库已归档到个人学习资源索引。完整列表见 hub.
+>
 # 经济学人、纽约客等英语外刊杂志下载
 ---------------------
 
